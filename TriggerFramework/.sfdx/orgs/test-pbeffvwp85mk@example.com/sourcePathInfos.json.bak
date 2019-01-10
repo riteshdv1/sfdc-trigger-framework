@@ -1,0 +1,152 @@
+[
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086395528,
+            "changeTime": 1547086395528,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086395528,
+            "changeTime": 1547086395528,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086430310,
+            "changeTime": 1547086430658,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086395532,
+            "changeTime": 1547086395532,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086430406,
+            "changeTime": 1547086430773,
+            "contentHash": "f60081bf1df7fdb1a394a04354351af69a13cb0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 7172,
+            "modifiedTime": 1547085969265,
+            "changeTime": 1547085969265,
+            "contentHash": "d8b16eae252223a969cade1d7da62ac5569bc701",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 344,
+            "modifiedTime": 1547085969265,
+            "changeTime": 1547085969265,
+            "contentHash": "47040445755d9e8c37c796166faffcbd7ad83e82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8468,
+            "modifiedTime": 1547085969267,
+            "changeTime": 1547085969267,
+            "contentHash": "cd956b2ac2646540fc0c50e1e598d260d517555d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 147,
+            "modifiedTime": 1547085969268,
+            "changeTime": 1547085969268,
+            "contentHash": "7d877d2f138bf18254ef6a490e4cf7b88ce3bfb6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework",
+        {
+            "state": "n",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547086473701,
+            "changeTime": 1547086473701,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

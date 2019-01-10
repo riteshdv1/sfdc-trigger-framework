@@ -1,0 +1,213 @@
+[
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547086395528,
+            "changeTime": 1547086395528,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547086395528,
+            "changeTime": 1547086395528,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547087061797,
+            "changeTime": 1547087061797,
+            "contentHash": "2448061de5e28ea0a6d493ec89014fd3af158a49"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547086395532,
+            "changeTime": 1547086395532,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547087061790,
+            "changeTime": 1547087061790,
+            "contentHash": "06a7b9c5c8c5af636f1a352955ef374c0a0c6491"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls",
+            "isDirectory": false,
+            "size": 7172,
+            "modifiedTime": 1547085969265,
+            "changeTime": 1547085969265,
+            "contentHash": "d8b16eae252223a969cade1d7da62ac5569bc701",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1547085969265,
+            "changeTime": 1547085969265,
+            "contentHash": "47040445755d9e8c37c796166faffcbd7ad83e82",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls",
+            "isDirectory": false,
+            "size": 8468,
+            "modifiedTime": 1547085969267,
+            "changeTime": 1547085969267,
+            "contentHash": "cd956b2ac2646540fc0c50e1e598d260d517555d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls-meta.xml",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\TriggerHandler_Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 147,
+            "modifiedTime": 1547085969268,
+            "changeTime": 1547085969268,
+            "contentHash": "7d877d2f138bf18254ef6a490e4cf7b88ce3bfb6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework",
+        {
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547086473701,
+            "changeTime": 1547086473701,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1547087061786,
+            "changeTime": 1547087061786,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\classes\\AccountTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1547087061790,
+            "changeTime": 1547087061790,
+            "contentHash": "b9442d74999fccceedb82f69428cd1b27ff4e3d5"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers\\AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1547087061803,
+            "changeTime": 1547087061803,
+            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers\\AccountTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 139,
+            "modifiedTime": 1547087061807,
+            "changeTime": 1547087061807,
+            "contentHash": "6059295141ccdd6fefa317ce52979ce989f034df"
+        }
+    ],
+    [
+        "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\GitSprint4\\sfdc-trigger-framework\\TriggerFramework\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547087061806,
+            "changeTime": 1547087061806,
+            "contentHash": "acc54750b3a2aad756c0864b40e1712786e9e0c1"
+        }
+    ]
+]
